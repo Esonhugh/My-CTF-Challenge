@@ -1,0 +1,6 @@
+[submodule "DASCTF_CSTI"]
+	path = DASCTF_CSTI
+	url = git@github.com:Esonhugh/DASCTF-CSTI.git
+[submodule "DASCTF_misc_hiHecker"]
+	path = DASCTF_misc_hiHecker
+	url = git@github.com:Esonhugh/DASCTF_misc_hecker.git
